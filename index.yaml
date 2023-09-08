@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bu-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-08T15:59:43.114568435+05:30"
+    description: A Helm chart for Kubernetes-User05
+    digest: d7ead1a6e79040c0511ba565a0db40db109438ee64c2e9d11167ec2a3246e7e7
+    name: bu-nginx
+    type: application
+    urls:
+    - https://github.com/saifhasankadri/helm-charts/bu-nginx/bu-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-08T15:59:43.113458434+05:30"
